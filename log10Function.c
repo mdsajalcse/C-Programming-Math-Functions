@@ -6,7 +6,7 @@ int main(){
        printf("Enter value of X= ");
        scanf("%lf",&x);
        result=log10(x);
-       printf("Log Function Value is::%.2lf\n",result);
+       printf("Log10 Function Value is::%.2lf\n",result);
 
 return 0;
 }
